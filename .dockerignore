@@ -1,0 +1,15 @@
+.git
+.gitignore
+.env
+.env.*
+.venv
+__pycache__
+.pytest_cache
+*.pyc
+*.pyo
+*.log
+*.7z
+*.zip
+/data
+/users
+/tests
